@@ -2,7 +2,7 @@
 
 A searchable field guide for AI-assisted software engineering, built as a reference companion to the principles of John Ousterhout, Eric Evans, and Kent Beck.
 
-![Signal Atlas Interface](https://raw.githubusercontent.com/ZiadtahaM/signal-atlas/main/client/public/manus-storage/signal-atlas-hero-texture_0334d338.jpg)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-signal--atlas--guide.pages.dev-0284c7?style=for-the-badge&logo=cloudflare)](https://signal-atlas-guide.pages.dev)
 
 ## What it is
 
