@@ -1,5 +1,13 @@
 # Signal Atlas
 
+
+## Visual Preview
+
+<div align="center">
+  <img src="docs/images/preview.png" alt="Signal Atlas Interactive Field Guide Interface Preview" width="100%" style="border-radius: 10px; box-shadow: 0 10px 30px rgba(0,0,0,0.15);" />
+</div>
+
+
 A searchable field guide for AI-assisted software engineering, built as a reference companion to the principles of John Ousterhout, Eric Evans, and Kent Beck.
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-signal--atlas--guide.pages.dev-0284c7?style=for-the-badge&logo=cloudflare)](https://signal-atlas-guide.pages.dev)
