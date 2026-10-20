@@ -240,6 +240,76 @@
       "activeMeshes": 180,
       "withinBudget": false,
       "timestamp": "2026-10-20T14:13:34.050Z"
+    },
+    {
+      "frameId": "frame-1792507684980-652",
+      "sceneId": "scene_mars_colony_01",
+      "fps": 59.8,
+      "drawCalls": 142,
+      "deltaMs": 16.7,
+      "activeMeshes": 320,
+      "withinBudget": true,
+      "timestamp": "2026-10-20T14:48:05.024Z"
+    },
+    {
+      "frameId": "frame-1792507769692-816",
+      "sceneId": "scene_mars_colony_01",
+      "fps": 59.8,
+      "drawCalls": 142,
+      "deltaMs": 16.7,
+      "activeMeshes": 320,
+      "withinBudget": true,
+      "timestamp": "2026-10-20T14:49:29.692Z"
+    },
+    {
+      "frameId": "frame-1792508315103-865",
+      "sceneId": "solar-system-3d",
+      "fps": 60,
+      "drawCalls": 120,
+      "deltaMs": 16.6,
+      "activeMeshes": 45,
+      "withinBudget": true,
+      "timestamp": "2026-10-20T14:58:35.103Z"
+    },
+    {
+      "frameId": "frame-1792508315112-519",
+      "sceneId": "solar-system-3d",
+      "fps": 22,
+      "drawCalls": 310,
+      "deltaMs": 45.4,
+      "activeMeshes": 180,
+      "withinBudget": false,
+      "timestamp": "2026-10-20T14:58:35.112Z"
+    },
+    {
+      "frameId": "frame-1792509082104-979",
+      "sceneId": "solar-system-3d",
+      "fps": 60,
+      "drawCalls": 120,
+      "deltaMs": 16.6,
+      "activeMeshes": 45,
+      "withinBudget": true,
+      "timestamp": "2026-10-20T15:11:22.104Z"
+    },
+    {
+      "frameId": "frame-1792509082114-32",
+      "sceneId": "solar-system-3d",
+      "fps": 22,
+      "drawCalls": 310,
+      "deltaMs": 45.4,
+      "activeMeshes": 180,
+      "withinBudget": false,
+      "timestamp": "2026-10-20T15:11:22.114Z"
+    },
+    {
+      "frameId": "frame-1792514252597-429",
+      "sceneId": "scene_mars_colony_01",
+      "fps": 59.8,
+      "drawCalls": 142,
+      "deltaMs": 16.7,
+      "activeMeshes": 320,
+      "withinBudget": true,
+      "timestamp": "2026-10-20T16:37:32.597Z"
     }
   ]
 }
