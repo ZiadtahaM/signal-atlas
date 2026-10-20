@@ -1,0 +1,245 @@
+{
+  "version": 1,
+  "frames": [
+    {
+      "frameId": "frame-1792420209667-711",
+      "sceneId": "solar-system-3d",
+      "fps": 60,
+      "drawCalls": 120,
+      "deltaMs": 16.6,
+      "activeMeshes": 45,
+      "withinBudget": true,
+      "timestamp": "2026-10-19T14:30:09.667Z"
+    },
+    {
+      "frameId": "frame-1792420209683-406",
+      "sceneId": "solar-system-3d",
+      "fps": 22,
+      "drawCalls": 310,
+      "deltaMs": 45.4,
+      "activeMeshes": 180,
+      "withinBudget": false,
+      "timestamp": "2026-10-19T14:30:09.683Z"
+    },
+    {
+      "frameId": "frame-1792420631501-598",
+      "sceneId": "solar-system-3d",
+      "fps": 60,
+      "drawCalls": 120,
+      "deltaMs": 16.6,
+      "activeMeshes": 45,
+      "withinBudget": true,
+      "timestamp": "2026-10-19T14:37:11.501Z"
+    },
+    {
+      "frameId": "frame-1792420631511-136",
+      "sceneId": "solar-system-3d",
+      "fps": 22,
+      "drawCalls": 310,
+      "deltaMs": 45.4,
+      "activeMeshes": 180,
+      "withinBudget": false,
+      "timestamp": "2026-10-19T14:37:11.511Z"
+    },
+    {
+      "frameId": "frame-1792427167093-484",
+      "sceneId": "solar-system-3d",
+      "fps": 60,
+      "drawCalls": 120,
+      "deltaMs": 16.6,
+      "activeMeshes": 45,
+      "withinBudget": true,
+      "timestamp": "2026-10-19T16:26:07.168Z"
+    },
+    {
+      "frameId": "frame-1792427167575-370",
+      "sceneId": "solar-system-3d",
+      "fps": 22,
+      "drawCalls": 310,
+      "deltaMs": 45.4,
+      "activeMeshes": 180,
+      "withinBudget": false,
+      "timestamp": "2026-10-19T16:26:07.575Z"
+    },
+    {
+      "frameId": "frame-1792427368642-997",
+      "sceneId": "solar-system-3d",
+      "fps": 60,
+      "drawCalls": 120,
+      "deltaMs": 16.6,
+      "activeMeshes": 45,
+      "withinBudget": true,
+      "timestamp": "2026-10-19T16:29:28.642Z"
+    },
+    {
+      "frameId": "frame-1792427369392-388",
+      "sceneId": "solar-system-3d",
+      "fps": 22,
+      "drawCalls": 310,
+      "deltaMs": 45.4,
+      "activeMeshes": 180,
+      "withinBudget": false,
+      "timestamp": "2026-10-19T16:29:29.392Z"
+    },
+    {
+      "frameId": "frame-1792429456421-570",
+      "sceneId": "solar-system-3d",
+      "fps": 60,
+      "drawCalls": 120,
+      "deltaMs": 16.6,
+      "activeMeshes": 45,
+      "withinBudget": true,
+      "timestamp": "2026-10-19T17:04:16.470Z"
+    },
+    {
+      "frameId": "frame-1792429456572-621",
+      "sceneId": "solar-system-3d",
+      "fps": 22,
+      "drawCalls": 310,
+      "deltaMs": 45.4,
+      "activeMeshes": 180,
+      "withinBudget": false,
+      "timestamp": "2026-10-19T17:04:16.572Z"
+    },
+    {
+      "frameId": "frame-1792430292464-268",
+      "sceneId": "solar-system-3d",
+      "fps": 60,
+      "drawCalls": 120,
+      "deltaMs": 16.6,
+      "activeMeshes": 45,
+      "withinBudget": true,
+      "timestamp": "2026-10-19T17:18:12.464Z"
+    },
+    {
+      "frameId": "frame-1792430292476-644",
+      "sceneId": "solar-system-3d",
+      "fps": 22,
+      "drawCalls": 310,
+      "deltaMs": 45.4,
+      "activeMeshes": 180,
+      "withinBudget": false,
+      "timestamp": "2026-10-19T17:18:12.476Z"
+    },
+    {
+      "frameId": "frame-1792433303760-393",
+      "sceneId": "solar-system-3d",
+      "fps": 60,
+      "drawCalls": 120,
+      "deltaMs": 16.6,
+      "activeMeshes": 45,
+      "withinBudget": true,
+      "timestamp": "2026-10-19T18:08:23.760Z"
+    },
+    {
+      "frameId": "frame-1792433303769-192",
+      "sceneId": "solar-system-3d",
+      "fps": 22,
+      "drawCalls": 310,
+      "deltaMs": 45.4,
+      "activeMeshes": 180,
+      "withinBudget": false,
+      "timestamp": "2026-10-19T18:08:23.769Z"
+    },
+    {
+      "frameId": "frame-1792434424520-131",
+      "sceneId": "solar-system-3d",
+      "fps": 60,
+      "drawCalls": 120,
+      "deltaMs": 16.6,
+      "activeMeshes": 45,
+      "withinBudget": true,
+      "timestamp": "2026-10-19T18:27:04.521Z"
+    },
+    {
+      "frameId": "frame-1792434424533-260",
+      "sceneId": "solar-system-3d",
+      "fps": 22,
+      "drawCalls": 310,
+      "deltaMs": 45.4,
+      "activeMeshes": 180,
+      "withinBudget": false,
+      "timestamp": "2026-10-19T18:27:04.533Z"
+    },
+    {
+      "frameId": "frame-1792434806122-670",
+      "sceneId": "solar-system-3d",
+      "fps": 60,
+      "drawCalls": 120,
+      "deltaMs": 16.6,
+      "activeMeshes": 45,
+      "withinBudget": true,
+      "timestamp": "2026-10-19T18:33:26.122Z"
+    },
+    {
+      "frameId": "frame-1792434806130-253",
+      "sceneId": "solar-system-3d",
+      "fps": 22,
+      "drawCalls": 310,
+      "deltaMs": 45.4,
+      "activeMeshes": 180,
+      "withinBudget": false,
+      "timestamp": "2026-10-19T18:33:26.130Z"
+    },
+    {
+      "frameId": "frame-1792436583698-385",
+      "sceneId": "solar-system-3d",
+      "fps": 60,
+      "drawCalls": 120,
+      "deltaMs": 16.6,
+      "activeMeshes": 45,
+      "withinBudget": true,
+      "timestamp": "2026-10-19T19:03:03.698Z"
+    },
+    {
+      "frameId": "frame-1792436583738-788",
+      "sceneId": "solar-system-3d",
+      "fps": 22,
+      "drawCalls": 310,
+      "deltaMs": 45.4,
+      "activeMeshes": 180,
+      "withinBudget": false,
+      "timestamp": "2026-10-19T19:03:03.807Z"
+    },
+    {
+      "frameId": "frame-1792440864455-614",
+      "sceneId": "solar-system-3d",
+      "fps": 60,
+      "drawCalls": 120,
+      "deltaMs": 16.6,
+      "activeMeshes": 45,
+      "withinBudget": true,
+      "timestamp": "2026-10-19T20:14:24.455Z"
+    },
+    {
+      "frameId": "frame-1792440864464-843",
+      "sceneId": "solar-system-3d",
+      "fps": 22,
+      "drawCalls": 310,
+      "deltaMs": 45.4,
+      "activeMeshes": 180,
+      "withinBudget": false,
+      "timestamp": "2026-10-19T20:14:24.464Z"
+    },
+    {
+      "frameId": "frame-1792505614030-473",
+      "sceneId": "solar-system-3d",
+      "fps": 60,
+      "drawCalls": 120,
+      "deltaMs": 16.6,
+      "activeMeshes": 45,
+      "withinBudget": true,
+      "timestamp": "2026-10-20T14:13:34.030Z"
+    },
+    {
+      "frameId": "frame-1792505614050-339",
+      "sceneId": "solar-system-3d",
+      "fps": 22,
+      "drawCalls": 310,
+      "deltaMs": 45.4,
+      "activeMeshes": 180,
+      "withinBudget": false,
+      "timestamp": "2026-10-20T14:13:34.050Z"
+    }
+  ]
+}
