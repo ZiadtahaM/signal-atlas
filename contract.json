@@ -1,0 +1,24 @@
+{
+  "app": "signal-atlas-guide",
+  "cloudflareProject": "signal-atlas-guide",
+  "deployDir": "client",
+  "liveUrl": "https://signal-atlas-guide.pages.dev",
+  "bannedStrings": [],
+  "features": [
+    {
+      "id": "sla-liability-hud",
+      "description": "Cold-chain spoilage and $185/min SLA liability HUD",
+      "autoClick": false
+    },
+    {
+      "id": "flight-recorder-panel",
+      "description": "Black-box circular ring-buffer flight recorder panel",
+      "autoClick": false
+    },
+    {
+      "id": "invariants-btn",
+      "description": "Telemetry watchdog and negative delta invariant check",
+      "autoClick": true
+    }
+  ]
+}
