@@ -1,0 +1,30 @@
+name: Signal Atlas Quality Gate
+
+on:
+  push:
+    branches: [main, master]
+  pull_request:
+    branches: [main, master]
+
+jobs:
+  verify-simulation-telemetry:
+    name: 3D Simulation Telemetry & Performance Budget
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js 22
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Run Telemetry Invariants Test Suite
+        run: node --test test/signalatlas.invariants.test.mjs
+
+      - name: Verify Ubiquitous Language Contract
+        run: |
+          test -f UBIQUITOUS_LANGUAGE.md
+          grep -q "SimulationFrame" UBIQUITOUS_LANGUAGE.md
+          grep -q "DrawCallBudget" UBIQUITOUS_LANGUAGE.md
+          grep -q "PhysicsStepDelta" UBIQUITOUS_LANGUAGE.md
